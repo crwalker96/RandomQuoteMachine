@@ -1,0 +1,17 @@
+#quote-wrapper {
+	overflow: hidden;
+	background-color: white;
+	border-radius: 3px;
+	border: 1px solid #EEEEEE;
+}
+.vertical-center {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+}
+.color-change-background {
+	background-color: red;
+}
+.color-change-text {
+	color: red;
+}
